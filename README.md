@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ## 数据目录
 
-默认数据目录为：
+执行后续代码时，需要先将数据文件夹放在主文件夹中。默认数据目录为：
 
 ```text
 EuroSAT_RGB/
