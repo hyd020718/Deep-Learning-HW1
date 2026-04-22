@@ -1,0 +1,21 @@
+{
+  "data_root": "EuroSAT_RGB",
+  "image_size": [
+    64,
+    64
+  ],
+  "num_classes": 10,
+  "train_ratio": 0.7,
+  "val_ratio": 0.15,
+  "seed": 718,
+  "hidden_dim1": 256,
+  "hidden_dim2": 128,
+  "activation": "relu",
+  "batch_size": 128,
+  "epochs": 50,
+  "lr": 0.01,
+  "lr_decay": 0.95,
+  "weight_decay": 5e-05,
+  "output_dir": "outputs/best_run",
+  "checkpoint_name": "best_model.npz"
+}

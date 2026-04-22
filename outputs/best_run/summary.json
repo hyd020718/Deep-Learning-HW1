@@ -1,0 +1,18 @@
+{
+  "best_val_acc": 0.6669135802469136,
+  "test_acc": 0.6580246913580247,
+  "class_names": [
+    "AnnualCrop",
+    "Forest",
+    "HerbaceousVegetation",
+    "Highway",
+    "Industrial",
+    "Pasture",
+    "PermanentCrop",
+    "Residential",
+    "River",
+    "SeaLake"
+  ],
+  "checkpoint_path": "outputs/best_run/best_model.npz",
+  "tested_on_test_set": true
+}
